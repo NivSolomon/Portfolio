@@ -23,11 +23,13 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import sela from "./company/sela.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import Amazon from "./Amazon-HomePage.png";
+import AmazonLogo from "./Amazon_logo.png";
+import Netflix from "./Netflix-HomePage.png";
+import NetflixLogo from "./Netflix_logo.png";
+import MERN from "./MERN.jpg";
 import tripguide from "./tripguide.png";
 
 export {
@@ -54,9 +56,11 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
+  sela,
+  Amazon,
+  AmazonLogo,
   tripguide,
+  NetflixLogo,
+  Netflix,
+  MERN
 };
