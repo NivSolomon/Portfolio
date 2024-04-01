@@ -113,7 +113,7 @@ const experiences = [
     title: "Lohamim LeHi-tech program",
     company_name: "Sela College",
     icon: sela,
-    iconBg: "#383E56",
+    iconBg: "white",
     date: "October 2022 - August 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -126,7 +126,7 @@ const experiences = [
     title: "Diamond Program",
     company_name: "Sela College",
     icon: sela,
-    iconBg: "#E6DEDD",
+    iconBg: "white",
     date: "Jan 2024 - April 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
