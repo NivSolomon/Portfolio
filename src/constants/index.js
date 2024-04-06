@@ -110,16 +110,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Lohamim LeHi-tech program",
-    company_name: "Sela College",
+    title: "Full Stack Course",
+    company_name: "Sela College - Lohamim LeHi-tech program",
     icon: sela,
     iconBg: "white",
     date: "October 2022 - August 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Full Stack software development program funded by the Israeli ministry of defence.",
+      "An intensive course that provided a comprehensive understanding of development tools and techniques like: data structures, algorithms, space and time complexity, object-oriented programming, design patterns anad clean code principles.",
+      "completed over 1000 hours of coursework, including hands on orijects and applications.",
     ],
   },
   {
@@ -129,10 +128,7 @@ const experiences = [
     iconBg: "white",
     date: "Jan 2024 - April 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Additional 3-month advance module 'Yahalom', an exclusive course for graduates of the Full-Stack Software-Development Program, with focus on advanced web development technologies.",
     ],
   },
 ];
@@ -186,7 +182,7 @@ const projects = [
     image: Amazon,
     source_code_link: "https://github.com/NivSolomon/Eshop",
     linkPath: "https://amazon-clone31.vercel.app/",
-    linkImage: AmazonLogo
+    linkImage: AmazonLogo,
   },
   {
     name: "MegaFlix- Netflix Clone",
@@ -209,7 +205,7 @@ const projects = [
     image: Netflix,
     source_code_link: "https://github.com/NivSolomon/Shahar-Niv_NetflixProject",
     linkPath: "https://megaflix31.vercel.app/",
-    linkImage: NetflixLogo
+    linkImage: NetflixLogo,
   },
 ];
 
