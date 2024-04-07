@@ -117,8 +117,10 @@ const experiences = [
     date: "October 2022 - August 2023",
     points: [
       "Full Stack software development program funded by the Israeli ministry of defence.",
-      "An intensive course that provided a comprehensive understanding of development tools and techniques like: data structures, algorithms, space and time complexity, object-oriented programming, design patterns anad clean code principles.",
-      "completed over 1000 hours of coursework, including hands on orijects and applications.",
+      "An intensive course that provided a comprehensive understanding of development tools and techniques like: data structures, algorithms, space and time complexity, object-oriented programming, design patterns and clean code principles.",
+      "Completed over 1000 hours of coursework, including hands on Proje and applications.",
+      "Technologies: JavaScript, TypeScript, Node.js, MongoDB, React, Angular, Tailwind CSS, C#, .NET Framework, ASP.NET MVC, Entity Framework, MSSQL.",
+      "Tools: Postman API, Swagger, Git, Github."
     ],
   },
   {
@@ -129,6 +131,7 @@ const experiences = [
     date: "Jan 2024 - April 2024",
     points: [
       "Additional 3-month advance module 'Yahalom', an exclusive course for graduates of the Full-Stack Software-Development Program, with focus on advanced web development technologies.",
+      "Technology Stack: MERN - MongoDB, Express.js, React, Node.js.",
     ],
   },
 ];
