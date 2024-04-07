@@ -118,7 +118,7 @@ const experiences = [
     points: [
       "Full Stack software development program funded by the Israeli ministry of defence.",
       "An intensive course that provided a comprehensive understanding of development tools and techniques like: data structures, algorithms, space and time complexity, object-oriented programming, design patterns and clean code principles.",
-      "Completed over 1000 hours of coursework, including hands on Proje and applications.",
+      "Completed over 1000 hours of coursework, including hands on projects and applications.",
       "Technologies: JavaScript, TypeScript, Node.js, MongoDB, React, Angular, Tailwind CSS, C#, .NET Framework, ASP.NET MVC, Entity Framework, MSSQL.",
       "Tools: Postman API, Swagger, Git, Github."
     ],
@@ -190,7 +190,7 @@ const projects = [
   {
     name: "MegaFlix- Netflix Clone",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Replicates Netflix's core fetures, including user authentication, personalize contet curation and Search-As-You-Type functionality. Offers live video streaming, quick content previews with react-player, and secure token  authurization with JWT.",
     tags: [
       {
         name: "reactTS",
