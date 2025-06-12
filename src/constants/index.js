@@ -25,6 +25,7 @@ import {
   NetflixLogo,
   Netflix,
   MERN,
+  Open_university,
 } from "../assets";
 
 export const navLinks = [
@@ -134,6 +135,20 @@ const experiences = [
       "Technology Stack: MERN - MongoDB, Express.js, React, Node.js.",
     ],
   },
+  {
+  title: "Computer Science Studies",
+  company_name: "Open University",
+  icon: Open_university,
+  iconBg: "white",
+  date: "November 2024 - Present",
+  points: [
+    "Deepening my knowledge in Computer Science foundations: data structures, algorithms, system design, operating systems, and computer architecture.",
+    "Learning advanced concepts in algorithm analysis, recursion, dynamic programming, graph theory, and computational complexity.",
+    "Hands-on coding exercises and algorithmic problem solving in C, C++, Java, and JavaScript.",
+    "Building a strong theoretical foundation to complement practical Full Stack Development skills.",
+    "Continuously improving problem-solving abilities and preparing for technical interviews."
+  ],
+},
 ];
 
 const testimonials = [

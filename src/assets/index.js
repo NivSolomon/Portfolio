@@ -25,6 +25,7 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import sela from "./company/sela.png";
+import Open_university from "./company/Open_university_israel_logo.png";
 
 import Amazon from "./Amazon-HomePage.png";
 import AmazonLogo from "./Amazon_logo.png";
@@ -59,6 +60,7 @@ export {
   meta,
   shopify,
   sela,
+  Open_university,
   Amazon,
   AmazonLogo,
   tripguide,
