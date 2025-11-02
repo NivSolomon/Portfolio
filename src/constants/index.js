@@ -121,7 +121,7 @@ const experiences = [
       "An intensive course that provided a comprehensive understanding of development tools and techniques like: data structures, algorithms, space and time complexity, object-oriented programming, design patterns and clean code principles.",
       "Completed over 1000 hours of coursework, including hands on projects and applications.",
       "Technologies: JavaScript, TypeScript, Node.js, MongoDB, React, Angular, Tailwind CSS, C#, .NET Framework, ASP.NET MVC, Entity Framework, MSSQL.",
-      "Tools: Postman API, Swagger, Git, Github."
+      "Tools: Postman API, Swagger, Git, Github.",
     ],
   },
   {
@@ -136,19 +136,19 @@ const experiences = [
     ],
   },
   {
-  title: "Computer Science Studies",
-  company_name: "Open University",
-  icon: Open_university,
-  iconBg: "white",
-  date: "November 2024 - Present",
-  points: [
-    "Deepening my knowledge in Computer Science foundations: data structures, algorithms, system design, operating systems, and computer architecture.",
-    "Learning advanced concepts in algorithm analysis, recursion, dynamic programming, graph theory, and computational complexity.",
-    "Hands-on coding exercises and algorithmic problem solving in C, C++, Java, and JavaScript.",
-    "Building a strong theoretical foundation to complement practical Full Stack Development skills.",
-    "Continuously improving problem-solving abilities and preparing for technical interviews."
-  ],
-},
+    title: "Computer Science Studies",
+    company_name: "Open University",
+    icon: Open_university,
+    iconBg: "white",
+    date: "November 2024 - Present",
+    points: [
+      "Deepening my knowledge in Computer Science foundations: data structures, algorithms, system design, operating systems, and computer architecture.",
+      "Learning advanced concepts in algorithm analysis, recursion, dynamic programming, graph theory, and computational complexity.",
+      "Hands-on coding exercises and algorithmic problem solving in C, C++, Java, and JavaScript.",
+      "Building a strong theoretical foundation to complement practical Full Stack Development skills.",
+      "Continuously improving problem-solving abilities and preparing for technical interviews.",
+    ],
+  },
 ];
 
 const testimonials = [
